@@ -1,0 +1,20 @@
+	  This is title bar setting
+	  getSupportActionBar().setTitle("সূরা আল-ফাতিহা");
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(getResources().getColor(R.color.black)));
+
+
+This is Button call other activity
+	 btnSuralist = findViewById(R.id.btn002);
+
+        btnSuralist.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                OpenSuralist();
+            }
+        });
+
+public void OpenSuralist(){
+        Intent intent = new Intent(this, SuraList.class);
+        startActivity(intent);
+    }

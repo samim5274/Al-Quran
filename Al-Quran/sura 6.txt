@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    android:scrollbarStyle="insideInset"
+    android:scrollbars="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical"
+        tools:context=".sura6">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="اَلۡحَمۡدُ لِلّٰہِ الَّذِیۡ خَلَقَ السَّمٰوٰتِ وَ الۡاَرۡضَ وَ جَعَلَ الظُّلُمٰتِ وَ النُّوۡرَ ۬ؕ ثُمَّ  الَّذِیۡنَ  کَفَرُوۡا بِرَبِّہِمۡ  یَعۡدِلُوۡنَ  ﴿۱﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="আলহামদুলিল্লা-হিল্লাযী খালকাছছামা-ওয়া-তি ওয়াল আরদা ওয়া জা‘আলাজজু লুমাতি ওয়াননূরা ছু ম্মাল্লাযীনা কাফারূ বিরাব্বিহীম ইয়া‘দিলূন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="০১.সমস্ত প্রশংসা আল্লাহরই জন্য যিনি আকাশসমূহ ও পৃথিবী সৃষ্টি করেছেন এবং সৃষ্টি করেছেন আলো ও অন্ধকার; এ সত্ত্বেও যারা কাফির হয়েছে তারা অপর কিছুকে তাদের রবের সমকক্ষ নিরূপণ করেছে।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="All praises and thanks be to Allah, Who (Alone) created the heavens and the earth, and originated the darkness and the light, yet those who disbelieve hold others as equal with their Lord."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="ہُوَ الَّذِیۡ خَلَقَکُمۡ مِّنۡ طِیۡنٍ ثُمَّ  قَضٰۤی اَجَلًا ؕ وَ اَجَلٌ مُّسَمًّی عِنۡدَہٗ  ثُمَّ  اَنۡتُمۡ تَمۡتَرُوۡنَ ﴿۲﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="হুওয়াল্লাযী খালাকাকুম মিন তীনিন ছুম্মা কাদাআজালাওঁ ওয়া আজালুম মুছাম্মান ‘ইনদাহূছু ম্মা আনতুম তামতারূন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="০২.অথচ তিনি তোমাদের মাটি হতে সৃষ্টি করেছেন, অতঃপর তোমাদের জীবনের জন্য একটি নির্দিষ্ট মেয়াদ নির্ধারণ করেছেন, এছাড়া আরও একটি নির্দিষ্ট মেয়াদ তাঁর নিকট নির্ধারিত রয়েছে, কিন্তু এরপরেও তোমরা সন্দেহ করে থাক।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="He it is Who has created you from clay, and then has decreed a stated term (for you to die). And there is with Him another determined term (for you to be resurrected), yet you doubt (in the Resurrection)."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="وَ ہُوَ اللّٰہُ فِی السَّمٰوٰتِ وَ فِی الۡاَرۡضِ ؕ یَعۡلَمُ سِرَّکُمۡ وَ جَہۡرَکُمۡ وَ یَعۡلَمُ مَا تَکۡسِبُوۡنَ ﴿۳﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ওয়া হুওয়াল্লা-হু ফিছছামা-ওয়া-তি ওয়া ফিল আরদি ইয়া‘লামুছিররাকুম ওয়া জাহরাকুম ওয়া ইয়া‘লামুমা-তাকছিবূন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="০৩.আকাশসমূহ ও পৃথিবীতে ঐ এক আল্লাহই রয়েছেন, তোমাদের অপ্রকাশ্য ও প্রকাশ্য সব অবস্থাই তিনি জানেন, আর তোমরা যা কিছু কর তাও তিনি পূর্ণরূপে অবগত আছেন।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="And He is Allah (to be worshipped Alone) in the heavens and on the earth, He knows what you conceal and what you reveal, and He knows what you earn (good or bad)."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="وَ مَا تَاۡتِیۡہِمۡ مِّنۡ اٰیَۃٍ مِّنۡ اٰیٰتِ رَبِّہِمۡ  اِلَّا  کَانُوۡا عَنۡہَا مُعۡرِضِیۡنَ ﴿۴﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ওয়ামা-তা’তীহিম মিন আ-য়াতিম মিন আ-ইয়া-তি রাব্বিহিম ইল্লা-কা-নূ‘আনহা-মু‘রিদীন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="০৪.আর তাদের অবস্থা হচ্ছে এই যে, তাদের নিকট তাদের রবের নিদর্শনসমূহ হতে যে কোন নিদর্শনই আসুক না কেন, তা হতেই তারা মুখ ফিরিয়ে নেয়।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="And never an Ayah (sign) comes to them from the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) of their Lord, but that they have been turning away from it."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="فَقَدۡ  کَذَّبُوۡا بِالۡحَقِّ  لَمَّا جَآءَہُمۡ ؕ فَسَوۡفَ یَاۡتِیۡہِمۡ اَنۡۢبٰٓؤُا مَا کَانُوۡا بِہٖ یَسۡتَہۡزِءُوۡنَ ﴿۵﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ফাকাদ কাযযাবূবিলহাক্কিলাম্মা-জাআহুম ফাছাওফা ইয়া‘তীহিম আমবাউ মা- কা-নূ বিহী ইয়াছতাহঝিঊন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="০৫,সুতরাং তাদের নিকট যখন সত্য বাণী এসেছে, ওটাও তারা মিথ্যা জেনেছে। অতএব অতি সত্ত্বরই তাদের নিকট সেই বিষয়ের সংবাদ এসে পৌঁছবে, যে ব্যাপারে তারা ঠাট্টা-বিদ্রুপ করত।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="Indeed, they rejected the truth (the Quran and Muhammad SAW) when it came to them, but there will come to them the news of that (the torment) which they used to mock at."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="اَلَمۡ یَرَوۡا کَمۡ اَہۡلَکۡنَا مِنۡ قَبۡلِہِمۡ مِّنۡ قَرۡنٍ مَّکَّنّٰہُمۡ فِی الۡاَرۡضِ مَا لَمۡ نُمَکِّنۡ لَّکُمۡ وَ اَرۡسَلۡنَا السَّمَآءَ عَلَیۡہِمۡ مِّدۡرَارًا ۪ وَّ جَعَلۡنَا الۡاَنۡہٰرَ تَجۡرِیۡ مِنۡ تَحۡتِہِمۡ فَاَہۡلَکۡنٰہُمۡ بِذُنُوۡبِہِمۡ وَ اَنۡشَاۡنَا مِنۡۢ بَعۡدِہِمۡ  قَرۡنًا اٰخَرِیۡنَ ﴿۶﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="আলাম ইয়ারাও কাম আহলাকনা-মিন কাবলিহিম মিন কারনিম মাককান্না-হুম ফিল আরদি মা-লাম নুমাককিল লাকুম ওয়া আরছালনাছছামাআ ‘আলাইহিম মিদরা-রাওঁ ওয়া জা‘আলনাল আন হা-রা তাজরী মিন তাহতিহিম ফাআহলাকনা-হুম বিযুনূবিহিম ওয়া আনশা’না-মিম বা‘দিহিম কারনান আ-খারীন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="০৬.তারা কি ভেবে দেখেনি যে, আমি তাদের পূর্বে বহু দল ও সম্প্রদায়কে ধ্বংস করেছি, যাদেরকে দুনিয়ায় এমন শক্তি সামর্থ্য ও প্রতিপত্তি দিয়েছিলাম যা তোমাদেরকে দিইনি, আর আমি তাদের প্রতি আকাশ হতে প্রচুর বৃষ্টি বর্ষণ করেছি এবং তাদের নিম্নভূমি হতে ঝর্ণাধারা প্রবাহিত করেছি, কিন্তু আমার নি‘আমাতের শোকর না করার পাপের কারণে আমি তাদেরকে ধ্বংস করেছি, এবং তাদের পর অন্য নতুন নতুন জাতি ও সম্প্রদায়সমূহ সৃষ্টি করেছি।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="Have they not seen how many a generation before them We have destroyed whom We had established on the earth such as We have not established you? And We poured out on them rain from the sky in abundance, and made the rivers flow under them. Yet We destroyed them for their sins, and created after them other generations."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="وَ لَوۡ نَزَّلۡنَا عَلَیۡکَ کِتٰبًا فِیۡ قِرۡطَاسٍ فَلَمَسُوۡہُ بِاَیۡدِیۡہِمۡ لَقَالَ الَّذِیۡنَ  کَفَرُوۡۤا اِنۡ ہٰذَاۤ  اِلَّا  سِحۡرٌ  مُّبِیۡنٌ ﴿۷﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ওয়ালাও নাঝঝালনা-আলাইকা কিতা-বান ফী কিরতা-ছিন ফালামাছূহু বিআইদীহিম লাকালাল্লাযীনা কাফারূ ইন হা-যা-ইল্লাছিহরুম মুবীন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="০৭.যদি আমি তোমার প্রতি কাগজে লিখিত কোন কিতাব অবতীর্ণ করতাম, অতঃপর তারা তা নিজেদের হাত দ্বারা স্পর্শও করত; তবুও কাফির ও অবিশ্বাসী লোকেরা বলতঃ এটা প্রকাশ্য যাদু ছাড়া আর কিছুই নয়।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="And even if We had sent down unto you (O Muhammad SAW) a Message written on paper so that they could touch it with their hands, the disbelievers would have said: This is nothing but obvious magic!"
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="وَ قَالُوۡا لَوۡ لَاۤ اُنۡزِلَ عَلَیۡہِ مَلَکٌ ؕ وَ لَوۡ اَنۡزَلۡنَا مَلَکًا لَّقُضِیَ الۡاَمۡرُ ثُمَّ لَا یُنۡظَرُوۡنَ ﴿۸﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ওয়া কা-লূলাওলাউনঝিলা ‘আলাইহি মালাকুওঁ ওয়া লাও আনঝালনা-মালাকাল লাকুদিয়াল আমরু ছুম্মা লা-ইউনজারূন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="০৮.আর তারা বলে থাকে, তাদের কাছে কোন মালাক/ফেরেশতা কেন পাঠানো হয়না? আমি যদি প্রকৃতই কোন মালাক/ফেরেশতা অবতীর্ণ করতাম তাহলে যাবতীয় বিষয়েরই চূড়ান্ত সমাধান হয়ে যেত, অতঃপর তাদেরকে কিছুমাত্রই অবকাশ দেয়া হতনা।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="And they say: Why has not an angel been sent down to him? Had We sent down an angel, the matter would have been judged at once, and no respite would be granted to them."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="وَ لَوۡ جَعَلۡنٰہُ مَلَکًا لَّجَعَلۡنٰہُ رَجُلًا وَّ لَلَبَسۡنَا عَلَیۡہِمۡ  مَّا یَلۡبِسُوۡنَ ﴿۹﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ওয়া লাও জা‘আলনা-হু মালাকাল্লাজা‘আলনা-হুরাজুলাওঁ ওয়া লালাবাছনা-‘আলাইহিম মাইয়ালবিছূন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="০৯.আর যদি কোন মালাককেও/ফেরেশতাকেও রাসূল করে পাঠাতাম তাহলে তাকে মানুষ রূপেই পাঠাতাম; এতেও তারা ঐ সন্দেহই করত, যে সন্দেহ ও প্রশ্ন এখন তারা করছে।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="And had We appointed him an angel, We indeed would have made him a man, and We would have certainly caused them confusion in a matter which they have already covered with confusion (i.e. the Message of Prophet Muhammad SAW)."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="وَ لَقَدِ اسۡتُہۡزِیٴَ بِرُسُلٍ مِّنۡ قَبۡلِکَ فَحَاقَ بِالَّذِیۡنَ سَخِرُوۡا مِنۡہُمۡ مَّا کَانُوۡا بِہٖ  یَسۡتَہۡزِءُوۡنَ ﴿٪۱۰﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ওয়া লাকাদিছ তুহঝিআ বিরুছুলিম মিন কাবলিকা ফাহা-কাবিল্লাযীনা ছাখিরূ মিনহুম মাকানূবিহী ইয়াছতাহঝিউ-ন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="১০.তোমার পূর্বে যে সব নাবী রাসূল এসেছিল, তাদের সাথেও ঠাট্টা বিদ্রুপ করা হয়েছে, ফলতঃ এই সব ব্যঙ্গ বিদ্রুপের পরিণাম ফল বিদ্রুপকারীদেরকেই পরিবেষ্টন করে ফেলেছিল।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="And indeed (many) Messengers were mocked before you, but their scoffers were surrounded by the very thing that they used to mock at."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</ScrollView>

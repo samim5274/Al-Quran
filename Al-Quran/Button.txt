@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    android:orientation="vertical"
+    android:scrollbarStyle="insideInset"
+    android:scrollbars="vertical">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:orientation="vertical"
+        android:padding="16dp"
+        tools:context=".MainActivity">
+
+        <TextView
+            android:id="@+id/txt1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15sp"
+            android:gravity="center"
+            android:text="আল-কুরআন মাজিদ"
+            android:textColor="@color/white"
+            android:textSize="40sp" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="4">
+
+            <Button
+                android:id="@+id/btn001"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_margin="5sp"
+                android:layout_weight="3"
+                android:background="@drawable/custom_button"
+                android:text="আল-কুরআন"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="30sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="4">
+
+            <Button
+                android:id="@+id/btn002"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_margin="5sp"
+                android:layout_weight="2"
+                android:background="@drawable/custom_button"
+                android:text="সূরা সমূহ"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/btn003"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_margin="5sp"
+                android:layout_weight="2"
+                android:background="@drawable/custom_button"
+                android:text="কালেমা"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="24sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="4">
+
+            <Button
+                android:id="@+id/btn004"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_margin="5sp"
+                android:layout_weight="2"
+                android:background="@drawable/custom_button"
+                android:text="সালাত"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/btn005"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_margin="5sp"
+                android:layout_weight="2"
+                android:background="@drawable/custom_button"
+                android:text="দোয়া"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="24sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="4">
+
+            <Button
+                android:id="@+id/btn006"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_margin="5sp"
+                android:layout_weight="2"
+                android:background="@drawable/custom_button"
+                android:text="আল আসমাউল হুসনা"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="23sp" />
+
+            <Button
+                android:id="@+id/btn007"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_margin="5sp"
+                android:layout_weight="2"
+                android:background="@drawable/custom_button"
+                android:text="তওবা"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="24sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="4">
+
+            <Button
+                android:id="@+id/btn008"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_margin="5sp"
+                android:layout_weight="2"
+                android:background="@drawable/custom_button"
+                android:text="আয়াতুল কুরসি"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/btn009"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_margin="5sp"
+                android:layout_weight="2"
+                android:background="@drawable/custom_button"
+                android:text="দোয়া ইউনুস"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="24sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="4">
+
+            <Button
+                android:id="@+id/btn0010"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_margin="5sp"
+                android:layout_weight="2"
+                android:background="@drawable/custom_button"
+                android:text="সূরা হাশর"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/btn0011"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_margin="5sp"
+                android:layout_weight="2"
+                android:background="@drawable/custom_button"
+                android:text="ইসমে আজম"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="24sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="4">
+
+            <Button
+                android:id="@+id/btn0012"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_margin="5sp"
+                android:layout_weight="2"
+                android:background="@drawable/custom_button"
+                android:text="গুরুত্বপূর্ণ বিষয়"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/btn0013"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_margin="5sp"
+                android:layout_weight="2"
+                android:background="@drawable/custom_button"
+                android:text="যোগাযোগ"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="24sp" />
+
+        </LinearLayout>
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</ScrollView>

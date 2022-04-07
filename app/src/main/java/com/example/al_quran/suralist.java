@@ -13,6 +13,9 @@ public class suralist extends AppCompatActivity {
 
     private TextView btnBack;
     private Button sura1;
+    private Button sura2;
+    private Button sura3;
+    private Button sura4;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,7 +26,7 @@ public class suralist extends AppCompatActivity {
         btnBack.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                OpenActivity();
+                finish();
             }
         });
 
@@ -31,21 +34,38 @@ public class suralist extends AppCompatActivity {
         sura1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                OpenSura1();
+                Intent intent = new Intent(suralist.this, sura1.class);
+                startActivity(intent);
             }
         });
 
+        sura2 = findViewById(R.id.btnS002);
+        sura2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(suralist.this,sura2.class);
+                startActivity(intent);
+            }
+        });
+
+        sura3 = findViewById(R.id.btnS003);
+        sura3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(suralist.this,sura3.class);
+                startActivity(intent);
+            }
+        });
+
+        sura4 = findViewById(R.id.btnS004);
+        sura4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(suralist.this,sura4.class);
+                startActivity(intent);
+            }
+        });
 
     }
 
-    private void OpenSura1(){
-        Intent intent = new Intent(suralist.this, sura1.class);
-        startActivity(intent);
-    }
-
-    private void OpenActivity(){
-        Intent intent = new Intent(suralist.this,MainActivity.class);
-        startActivity(intent);
-        finish();
-    }
 }

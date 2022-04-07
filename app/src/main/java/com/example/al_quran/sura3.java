@@ -7,26 +7,23 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class sura1 extends AppCompatActivity {
+public class sura3 extends AppCompatActivity {
 
-    private Button backbutton;
+    private Button btnBack;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_sura1);
+        setContentView(R.layout.activity_sura3);
 
-        backbutton = findViewById(R.id.btnBack1);
-
-        backbutton.setOnClickListener(new View.OnClickListener() {
+        btnBack = findViewById(R.id.btnBack3);
+        btnBack.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                OpenBack();
+                finish();
             }
         });
     }
 
-    private void OpenBack(){
-        finish();
-    }
+
 }

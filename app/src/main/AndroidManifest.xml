@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AlQuran">
         <activity
+            android:name=".sura4"
+            android:exported="false" />
+        <activity
+            android:name=".sura3"
+            android:exported="false" />
+        <activity
+            android:name=".sura2"
+            android:exported="false" />
+        <activity
             android:name=".sura1"
             android:exported="false" />
         <activity

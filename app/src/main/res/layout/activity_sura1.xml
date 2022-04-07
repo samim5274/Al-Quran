@@ -18,7 +18,7 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:layout_weight="3"
-            android:id="@+id/txtBack1"
+            android:id="@+id/btnBack1"
             android:background="@drawable/backbutton"
             android:textColor="@color/black"
             android:textSize="10dp"
@@ -90,7 +90,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="5dp"
-                android:text="আল্লাহরই জন্য সমস্ত প্রশংসা, যিনি বিশ্বজগতের রাব্ব।"
+                android:text="০১.আল্লাহরই জন্য সমস্ত প্রশংসা, যিনি বিশ্বজগতের রাব্ব।"
                 android:textColor="#000000"
                 android:textSize="14sp" />
 
@@ -132,7 +132,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="5dp"
-                android:text="যিনি পরম দয়ালু, অতিশয় করুণাময়।"
+                android:text="০২.যিনি পরম দয়ালু, অতিশয় করুণাময়।"
                 android:textColor="#000000"
                 android:textSize="14sp" />
 
@@ -174,7 +174,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="5dp"
-                android:text="যিনি বিচার দিনের মালিক।"
+                android:text="০৩.যিনি বিচার দিনের মালিক।"
                 android:textColor="#000000"
                 android:textSize="14sp" />
 
@@ -215,7 +215,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="5dp"
-                android:text="যআমরা আপনারই ইবাদাত করছি এবং আপনারই নিকট সাহায্য চাচ্ছি।"
+                android:text="০৪.আমরা আপনারই ইবাদাত করছি এবং আপনারই নিকট সাহায্য চাচ্ছি।"
                 android:textColor="#000000"
                 android:textSize="14sp" />
 
@@ -257,7 +257,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="5dp"
-                android:text="আমাদেরকে সরল সঠিক পথ প্রদর্শন করুন।"
+                android:text="০৫.আমাদেরকে সরল সঠিক পথ প্রদর্শন করুন।"
                 android:textColor="#000000"
                 android:textSize="14sp" />
 
@@ -299,7 +299,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="5dp"
-                android:text="তাদের পথ, যাদের প্রতি আপনি অনুগ্রহ করেছেন।"
+                android:text="০৬.তাদের পথ, যাদের প্রতি আপনি অনুগ্রহ করেছেন।"
                 android:textColor="#000000"
                 android:textSize="14sp" />
 
@@ -341,7 +341,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="5dp"
-                android:text="তাদের পথে নয়, যাদের প্রতি আপনার গযব বর্ষিত হয়েছে, তাদের পথও নয় যারা পথভ্রষ্ট হয়েছে। আমীন"
+                android:text="০৭.তাদের পথে নয়, যাদের প্রতি আপনার গযব বর্ষিত হয়েছে, তাদের পথও নয় যারা পথভ্রষ্ট হয়েছে। আমীন"
                 android:textColor="#000000"
                 android:textSize="14sp" />
 

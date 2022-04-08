@@ -7,6 +7,7 @@
     android:layout_height="fill_parent"
     android:fillViewport="true"
     android:scrollbarStyle="insideInset"
+android:layout_marginTop="65dp"
     android:scrollbars="vertical">
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -23,7 +24,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -66,7 +67,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -110,7 +111,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -153,7 +154,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -196,7 +197,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -239,7 +240,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -282,7 +283,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -326,7 +327,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -369,7 +370,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -412,7 +413,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -455,7 +456,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -498,7 +499,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -541,7 +542,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -584,7 +585,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -627,7 +628,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -670,7 +671,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -714,7 +715,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -757,7 +758,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -800,7 +801,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -843,7 +844,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -886,7 +887,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -929,7 +930,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -972,7 +973,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1015,7 +1016,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1058,7 +1059,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1101,7 +1102,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1144,7 +1145,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1188,7 +1189,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1231,7 +1232,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1274,7 +1275,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1318,7 +1319,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1361,7 +1362,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1404,7 +1405,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1447,7 +1448,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1490,7 +1491,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1533,7 +1534,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1576,7 +1577,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1619,7 +1620,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1662,7 +1663,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1705,7 +1706,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1748,7 +1749,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1791,7 +1792,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1835,7 +1836,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1878,7 +1879,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1921,7 +1922,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -1964,7 +1965,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2007,7 +2008,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2050,7 +2051,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2093,7 +2094,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2136,7 +2137,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2179,7 +2180,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2222,7 +2223,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2265,7 +2266,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2308,7 +2309,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2351,7 +2352,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2394,7 +2395,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2438,7 +2439,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2481,7 +2482,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2524,7 +2525,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2568,7 +2569,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2611,7 +2612,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2654,7 +2655,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2697,7 +2698,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2740,7 +2741,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2783,7 +2784,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2826,7 +2827,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2869,7 +2870,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2912,7 +2913,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2955,7 +2956,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -2998,7 +2999,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3041,7 +3042,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3084,7 +3085,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3127,7 +3128,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3170,7 +3171,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3213,7 +3214,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3256,7 +3257,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3299,7 +3300,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3342,7 +3343,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3385,7 +3386,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3428,7 +3429,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3471,7 +3472,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3514,7 +3515,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3557,7 +3558,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3600,7 +3601,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3643,7 +3644,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3686,7 +3687,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3729,7 +3730,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3772,7 +3773,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3815,7 +3816,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3858,7 +3859,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3900,7 +3901,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3943,7 +3944,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -3986,7 +3987,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4029,7 +4030,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4072,7 +4073,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4115,7 +4116,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4158,7 +4159,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4201,7 +4202,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4244,7 +4245,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4287,7 +4288,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4330,7 +4331,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4373,7 +4374,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4416,7 +4417,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4459,7 +4460,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4502,7 +4503,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4545,7 +4546,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4588,7 +4589,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4631,7 +4632,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4674,7 +4675,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4717,7 +4718,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4760,7 +4761,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4803,7 +4804,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4846,7 +4847,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4889,7 +4890,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4932,7 +4933,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -4975,7 +4976,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -5018,7 +5019,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -5061,7 +5062,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -5104,7 +5105,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 
@@ -5147,7 +5148,7 @@ And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
-            android:background="@drawable/custom_sura_layout"
+            android:background="@drawable/customl_ist_layout"
             android:orientation="vertical"
             android:padding="5dp">
 

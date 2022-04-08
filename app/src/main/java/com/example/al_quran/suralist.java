@@ -17,6 +17,7 @@ public class suralist extends AppCompatActivity {
     private Button sura3;
     private Button sura4;
     private Button sura5;
+    private Button sura6;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -76,6 +77,14 @@ public class suralist extends AppCompatActivity {
             }
         });
 
+        sura6 = findViewById(R.id.btnS006);
+        sura6.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(suralist.this, sura6.class);
+                startActivity(intent);
+            }
+        });
 
     }
 
